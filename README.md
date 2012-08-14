@@ -1,3 +1,5 @@
+My CNBLOGS : http://www.cnblogs.com/DreamSea-for-Jimmy/
+My CSDN BLOGS: http://www.csdn.net/blog/liu01983zm/
 ###################new repositories##############################
 touch README.md
 git init
