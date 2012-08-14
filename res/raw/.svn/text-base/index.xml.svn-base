@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<demos>
+
+	<demo>
+		<id>1</id>
+		<title>1.Setting Up An OpenGL Window</title>
+		<image>drawable/lesson01</image>
+		<description>In this tutorial, I will teach you how to set up, and use OpenGL in a Windows environment.</description>
+	</demo>
+
+	<demo>
+		<id>2</id>
+		<title>2.Your First Polygon</title>
+		<image>drawable/lesson02</image>
+		<description>We will now add code to create a Triangle, and a Square on the screen.</description>
+	</demo>
+
+	<demo>
+		<id>3</id>
+		<title>3.Adding Color</title>
+		<image>drawable/lesson03</image>
+		<description>You will learn about both flat coloring and smooth coloring. The triangle on the left uses smooth coloring.</description>
+	</demo>
+
+	<demo>
+		<id>4</id>
+		<title>4.Rotation</title>
+		<image>drawable/lesson04</image>
+		<description> I'll teach you how to rotate both the triangle and the quad. The triangle will rotate on the Y axis, and the quad will rotate on the X axis.</description>
+	</demo>
+
+	<demo>
+		<id>5</id>
+		<title>5.3D Shapes</title>
+		<image>drawable/lesson05</image>
+		<description> We'll build the objects using polygons and quads.</description>
+	</demo>
+	
+	<demo>
+		<id>6</id>
+		<title>6.Texture Mapping</title>
+		<image>drawable/lesson06</image>
+		<description>In this tutorial I will teach you how to map a bitmap image onto the six sides of a cube</description>
+	</demo>
+	
+	<demo>
+		<id>7</id>
+		<title>7.Texture Filters, Lighting</title>
+		<image>drawable/lesson07</image>
+		<description> I'm going to attempt to teach you 2 new ways to filter your textures, simple lighting, and probably more :)</description>
+	</demo>
+	
+	<demo>
+		<id>8</id>
+		<title>8.Blending</title>
+		<image>drawable/lesson08</image>
+		<description>Blending is a very cool effect... I hope you all enjoy the tutorial.</description>
+	</demo>
+	
+	<demo>
+		<id>9</id>
+		<title>9.Moving Bitmaps In 3D Space</title>
+		<image>drawable/lesson09</image>
+		<description>This tutorial is a combination of everything that you have learned up till now, along with information on how to move your object in 3D. </description>
+	</demo>
+	
+	<demo>
+		<id>10</id>
+		<title>10.Loading And Moving Through A 3D World</title>
+		<image>drawable/lesson10</image>
+		<description>This tutorial is a combination of everything that you have learned up till now.</description>
+	</demo>
+
+	<demo>
+		<id>11</id>
+		<title>11.Flag Effect (Waving Texture)</title>
+		<image>drawable/lesson11</image>
+		<description> It's definitely a nice effect, and alot better than flat non moving textures</description>
+	</demo>
+
+	<demo>
+		<id>12</id>
+		<title>12.Display Lists</title>
+		<image>drawable/lesson12</image>
+		<description>Learn how to use OpenGL display lists. Prebuild objects and display them on the screen with just one line of code. </description>
+	</demo>
+	
+	<demo>
+		<id>13</id>
+		<title>13.Bitmap Fonts</title>
+		<image>drawable/lesson13</image>
+		<description>I think the question I get asked most often in email is "how can I display text on the screen using OpenGL?".</description>
+	</demo>
+
+	<demo>
+		<id>14</id>
+		<title>14.Outline Fonts</title>
+		<image>drawable/lesson14</image>
+		<description>Do you need control over where the fonts are on the Z axis? Do you need 3D fonts (fonts with actual depth)? Do you need wireframe fonts?</description>
+	</demo>
+
+	<demo>
+		<id>15</id>
+		<title>15.Texture Mapped Outline Fonts</title>
+		<image>drawable/lesson15</image>
+		<description> This time we learn a quick and fairly nice looking way to texture map fonts, and any other 3D object on your screen.</description>
+	</demo>
+
+	<demo>
+		<id>16</id>
+		<title>16.Cool Looking Fog</title>
+		<image>drawable/lesson16</image>
+		<description> It's a pretty short tutorial aimed at teaching you the art of fog.</description>
+	</demo>
+	
+	<demo>
+		<id>17</id>
+		<title>17.2D Texture Font</title>
+		<image>drawable/lesson17</image>
+		<description> In this tutorial you will learn how to write any character or phrase you want to the screen using texture mapped quads. </description>
+	</demo>
+	
+	<demo>
+		<id>18</id>
+		<title>18.Quadrics</title>
+		<image>drawable/lesson18</image>
+		<description>It will introduce you to the wonderful world of quadrics. With quadrics you can easily create complex objects.</description>
+	</demo>
+	
+	<demo>
+		<id>19</id>
+		<title>19.Particle Engine Using Triangle Strips</title>
+		<image>drawable/lesson19</image>
+		<description> It's definitely a nice effect, and alot better than flat non moving textures</description>
+	</demo>
+	
+	<demo>
+		<id>20</id>
+		<title>20.Masking</title>
+		<image>drawable/lesson20</image>
+		<description>Although this is effective, and it adds our image to the scene, a transparent object is not always pretty. </description>
+	</demo>
+	
+	<demo>
+		<id>21</id>
+		<title>21.Lines, Antialiasing, Timing...</title>
+		<image>drawable/lesson21</image>
+		<description> This is my first large tutorial. In this tutorial you will learn about: Lines, Anti-Aliasing, Orthographic Projection, Timing, Basic Sound Effects, and Simple Game Logic. </description>
+	</demo>
+	
+	<demo>
+		<id>22</id>
+		<title>22.Bump-Mapping, Multi-Texturing</title>
+		<image>drawable/lesson22</image>
+		<description>Along with a really cool visual effect called bump-mapping</description>
+	</demo>
+	
+	<demo>
+		<id>23</id>
+		<title>23.Sphere Mapping Quadrics In OpenGL</title>
+		<image>drawable/lesson23</image>
+		<description>Now that the lessons are a little more advanced it's time to dive into the world of sphere mapping. </description>
+	</demo>
+	
+	<demo>
+		<id>24</id>
+		<title>24.Tokens, Extensions, Scissor Testing</title>
+		<image>drawable/lesson24</image>
+		<description>In this tutorial I will teach you how to read and parse what OpenGL extensions are supported by your video card.</description>
+	</demo>
+	
+	<demo>
+		<id>25</id>
+		<title>25.Morphing,Loading Objects From File</title>
+		<image>drawable/lesson25</image>
+		<description> Learn how to load simple objects from a text file, and morph smoothly from one object into another. The effect in this tutorial has to be seen to be appreciated. The </description>
+	</demo>
+	
+	<demo>
+		<id>26</id>
+		<title>26.Clipping , Reflections</title>
+		<image>drawable/lesson26</image>
+		<description>It demonstrates how to create extremely realistic reflections using the stencil buffer, clipping, and multi-texturing. This tutorial is more advanced than previous lessons, so please make sure you've read the previous lessons before jumping in</description>
+	</demo>
+	
+	<demo>
+		<id>27</id>
+		<title>27.Shadows</title>
+		<image>drawable/lesson27</image>
+		<description>The effect is amazing! Shadows that actual wrap around objects, and distort on the walls and floor</description>
+	</demo>		
+	
+	<demo>
+		<id>28</id>
+		<title>28.Bezier Patches / Fullscreen Fix</title>
+		<image>drawable/lesson28</image>
+		<description>The surface being altered is fully texture mapped, the animation is smooth!</description>
+	</demo>	
+	
+	<demo>
+		<id>29</id>
+		<title>29.Blitter Function,RAW Texture</title>
+		<image>drawable/lesson29</image>
+		<description> In this tutorial you will learn how to load .RAW image files. You will also learn how to write your own blitter routine to modify textures after they have been loaded.</description>
+	</demo>	
+	
+	<demo>
+		<id>30</id>
+		<title>30.Collision Detection</title>
+		<image>drawable/lesson30</image>
+		<description>In this tutorial you will learn the basics of collision detection, collision response, and physically based modelling effects. </description>
+	</demo>													
+</demos>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<demos>
+
+	<demo>
+		<id>1</id>
+		<title>1.Ball Collision</title>
+		<image>drawable/star</image>
+		<description>In this tutorial,we will test a collision check.</description>
+	</demo>
+
+	<demo>
+		<id>2</id>
+		<title>2.Particles System</title>
+		<image>drawable/star</image>
+		<description>We will now add code to create a Particles System.</description>
+	</demo>
+	
+	<demo>
+	    <id>3</id>
+	    <title>3. load md2 3d file</title>
+	    <image>drawable/star</image>
+	    <description>We will now add code to load 3d file.</description>
+	</demo>	
+	<demo>
+	    <id>4</id>
+	    <title>4. load Solar System</title>
+	    <image>drawable/star</image>
+	    <description>We will now add code to load Solar System.</description>
+	</demo>							
+</demos>
